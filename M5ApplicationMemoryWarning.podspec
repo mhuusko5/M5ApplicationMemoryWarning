@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name = 'M5ApplicationMemoryWarning'
-  s.version = '1.0.0'
+  s.version = '1.0.1'
   s.license = { :type => 'MIT', :file => 'LICENSE' }
   s.summary = 'Memory warning notification that works on iOS *and Mac*.'
   s.homepage = 'https://github.com/mhuusko5/M5ApplicationMemoryWarning'
