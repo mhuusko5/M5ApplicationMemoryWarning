@@ -12,6 +12,7 @@
 
 #pragma mark Fields
 
-extern NSString* const kM5ApplicationDidReceiveMemoryWarningNotification; //Listen with NSNotificationCenter.defaultCenter
+/** Notification to listen to with 'NSNotificationCenter.defaultCenter'. */
+extern NSString* const kM5ApplicationDidReceiveMemoryWarningNotification;
 
 #pragma mark -
